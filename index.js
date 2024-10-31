@@ -14,11 +14,13 @@ function increment() {
 }
 
 function save(){
-    countEL.innerText = 0
-    count = 0
+   
     let countStr = count + " - ";
     saveEl.textContent += countStr;
+    count = 0
+    countEL.innerText = 0
     console.log(count);
+
 }
 // ----------------------------------------------
 // let username = "per"
