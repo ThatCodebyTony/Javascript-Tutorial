@@ -15,3 +15,14 @@ function increment() {
 function save(){
     console.log(count)
 }
+
+let username = "per"
+let message = "You have tree new notifications"
+console.log(message + ", " + username + "!")
+
+let newMessage = message + ", " + username + "!"
+
+let name = "Tony"
+let greeting = "Hi, my name is"
+
+let myGreating = greeting + " " + name
