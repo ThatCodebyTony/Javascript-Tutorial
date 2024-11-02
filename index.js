@@ -47,3 +47,30 @@ let greeting = "Welcome back, "
 let myGreeting = greeting + name
 welcomeEl.innerText = myGreeting
 welcomeEl.innerText += " " + "👋" + "Homie"
+
+
+// ----------------------------------------------
+
+// Calculator
+// let num1 = 8
+// let num2 = 2
+
+// document.getElementById("num1-el").textContent = num1
+// document.getElementById("num2-el").textContent = num2
+// let sumEl = document.getElementById("sum-el")
+
+// // Create four functions: add(), subtract(), divide(), multiply()
+
+// function add(){
+//     sumEl.textContent = num1+num2
+// }
+// function subtract(){
+//     sumEl.textContent = num1-num2
+// }
+// function divide(){
+//    sumEl.textContent = num1/num2
+// }
+// function multiply(){
+//     sumEl.textContent = num1*num2
+// }
+//----------------------------------------------
